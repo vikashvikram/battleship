@@ -1,0 +1,18 @@
+<div class="card" style="margin-top: 30px">
+  <div class="card-header">
+    Upload
+  </div>
+  <div class="card-block">
+    <%= form_tag("/submit", method: "post", multipart: true) do %>
+        <% if @err_message %>
+            <div class="alert alert-danger" role="alert">
+              <%= @err_message %>
+            </div>
+        <% end %>
+        <%= label_tag(:battleship_data, "Upload the input file (.txt): ") %>
+        <%= file_field_tag 'battleship_data' %>
+        <br/>
+        <%= submit_tag("Submit", class: "btn btn-secondary") %>
+    <%end%>
+  </div>
+</div>
