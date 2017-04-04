@@ -27,7 +27,7 @@ class FileParser
     index = @ship_formation_lines.last
     @fires = []
     NUMBER_OF_PLAYERS.times do |i|
-      @fires << (@input[index+i+1].split(" ") || "") if index
+      @fires << (@input[index+i+1].split(" ") || "") if index and @input[index+i+1]
     end
   end
 

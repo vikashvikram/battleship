@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c195f2f-815d-4d9c-957e-31506cf7731d" name="Default" comment="" />
+    <list default="true" id="7c195f2f-815d-4d9c-957e-31506cf7731d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/home_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/home_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/battle.rb" afterPath="$PROJECT_DIR$/app/models/battle.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/parsers/file_parser.rb" afterPath="$PROJECT_DIR$/app/parsers/file_parser.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coverage/.last_run.json" afterPath="$PROJECT_DIR$/coverage/.last_run.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coverage/.resultset.json" afterPath="$PROJECT_DIR$/coverage/.resultset.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coverage/index.html" afterPath="$PROJECT_DIR$/coverage/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/controllers/home_controller_spec.rb" afterPath="$PROJECT_DIR$/spec/controllers/home_controller_spec.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/rails_helper.rb" afterPath="$PROJECT_DIR$/spec/rails_helper.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/spec_helper.rb" afterPath="$PROJECT_DIR$/spec/spec_helper.rb" />
+    </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -16,17 +30,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home_controller_spec.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spec/controllers/home_controller_spec.rb">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="210">
+              <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>does not ex</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/controllers/home_controller.rb" />
+        <option value="$PROJECT_DIR$/app/parsers/file_parser.rb" />
+        <option value="$PROJECT_DIR$/spec/models/battle_ground_spec.rb" />
+        <option value="$PROJECT_DIR$/app/models/player.rb" />
+        <option value="$PROJECT_DIR$/spec/models/player_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/spec_helper.rb" />
+        <option value="$PROJECT_DIR$/app/models/battle.rb" />
+        <option value="$PROJECT_DIR$/spec/models/battle_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/parsers/file_parser_spec.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/spec/rails_helper.rb" />
+        <option value="$PROJECT_DIR$/spec/controllers/home_controller_spec.rb" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -39,6 +80,7 @@
     <option name="width" value="1391" />
     <option name="height" value="878" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -78,6 +120,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="battleship" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="battleship" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fixtures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -141,7 +205,43 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="parsers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="battleship" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="battleship" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="battleship" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="battleship" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -153,6 +253,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spec/fixtures" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -167,6 +272,95 @@
     </option>
   </component>
   <component name="RunManager" selected="Rails.Development: battleship">
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="MixExUnitRunConfigurationType" factoryName="Elixir Mix ExUnit" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="passParentEnvs" value="false" />
+      <option name="programParameters" />
+      <option name="workingDirectory" value="" />
+      <module />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="RailsRunConfigurationType" factoryName="Rails">
       <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
       <module name="" />
@@ -213,6 +407,43 @@
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
       <method />
     </configuration>
     <configuration default="false" name="test: battleship" type="RakeRunConfigurationType" factoryName="Rake">
@@ -331,12 +562,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1491217657822</updated>
-      <workItem from="1491217660814" duration="122000" />
+      <workItem from="1491217660814" duration="15575000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122000" />
+    <option name="totallyTimeSpent" value="15575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1391" height="878" extended-state="6" />
@@ -347,19 +578,19 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881773" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,41 +617,279 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/battle.rb">
+    <entry file="file://$PROJECT_DIR$/config/puma.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/battle_ground.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1491215397000" expanded="true" signature="12:2548" ph=" ... end" />
-            <marker date="1491215397000" expanded="true" signature="104:232" ph=" ... end" />
-            <marker date="1491215397000" expanded="true" signature="236:412" ph="##..." />
-            <marker date="1491215397000" expanded="true" signature="424:1319" ph=" ... end" />
-            <marker date="1491215397000" expanded="true" signature="482:520" ph="{ ... }" />
-            <marker date="1491215397000" expanded="true" signature="541:1272" ph="until ... end" />
-            <marker date="1491215397000" expanded="true" signature="577:1232" ph="do ... end" />
-            <marker date="1491215397000" expanded="true" signature="629:1222" ph="do ... end" />
-            <marker date="1491215397000" expanded="true" signature="722:881" ph="unless ... end" />
-            <marker date="1491215397000" expanded="true" signature="926:1058" ph="unless ... end" />
-            <marker date="1491215397000" expanded="true" signature="1435:1794" ph=" ... end" />
-            <marker date="1491215397000" expanded="true" signature="1440:1788" ph="if ... end" />
-            <marker date="1491215397000" expanded="true" signature="1588:1734" ph="if ... end" />
-            <marker date="1491215397000" expanded="true" signature="1895:2047" ph=" ... end" />
-            <marker date="1491215397000" expanded="true" signature="1916:1964" ph="{ ... }" />
-            <marker date="1491215397000" expanded="true" signature="1995:2030" ph="{ ... }" />
-            <marker date="1491215397000" expanded="true" signature="2110:2293" ph=" ... end" />
-            <marker date="1491215397000" expanded="true" signature="2115:2287" ph="if ... end" />
-            <marker date="1491215397000" expanded="true" signature="2144:2192" ph="{ ... }" />
-            <marker date="1491215397000" expanded="true" signature="2410:2544" ph=" ... end" />
-            <marker date="1491215397000" expanded="true" signature="2429:2538" ph="do ... end" />
-            <marker date="1491215397000" expanded="true" signature="2485:2530" ph="do ... end" />
+            <marker date="1491217559000" expanded="true" signature="18:222" ph=" ... end" />
+            <marker date="1491217559000" expanded="true" signature="77:218" ph=" ... end" />
+            <marker date="1491217559000" expanded="true" signature="121:212" ph="do ... end" />
+            <marker date="1491217559000" expanded="true" signature="150:204" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/player.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="8" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+          <folding>
+            <marker date="1491276074000" expanded="true" signature="12:2075" ph=" ... end" />
+            <marker date="1491276074000" expanded="true" signature="176:284" ph=" ... end" />
+            <marker date="1491276074000" expanded="true" signature="437:874" ph=" ... end" />
+            <marker date="1491276074000" expanded="true" signature="522:633" ph="do ... end" />
+            <marker date="1491276074000" expanded="true" signature="547:600" ph="do ... end" />
+            <marker date="1491276074000" expanded="true" signature="648:868" ph="do ... end" />
+            <marker date="1491276074000" expanded="true" signature="661:860" ph="if ... end" />
+            <marker date="1491276074000" expanded="true" signature="1003:1454" ph=" ... end" />
+            <marker date="1491276074000" expanded="true" signature="1049:1123" ph="do ... end" />
+            <marker date="1491276074000" expanded="true" signature="1159:1375" ph="do ... end" />
+            <marker date="1491276074000" expanded="true" signature="1247:1367" ph="do ... end" />
+            <marker date="1491276074000" expanded="true" signature="1616:2070" ph=" ... end" />
+            <marker date="1491276074000" expanded="true" signature="1707:2064" ph="do ... end" />
+            <marker date="1491276074000" expanded="true" signature="1763:2056" ph="do ... end" />
+            <marker date="1491276074000" expanded="true" signature="1785:2046" ph="if ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/battle.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="69" column="16" lean-forward="false" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
+          <folding>
+            <marker date="1491285614000" expanded="true" signature="12:2547" ph=" ... end" />
+            <marker date="1491285614000" expanded="true" signature="104:232" ph=" ... end" />
+            <marker date="1491285614000" expanded="true" signature="236:412" ph="##..." />
+            <marker date="1491285614000" expanded="true" signature="424:1319" ph=" ... end" />
+            <marker date="1491285614000" expanded="true" signature="482:520" ph="{ ... }" />
+            <marker date="1491285614000" expanded="true" signature="541:1272" ph="until ... end" />
+            <marker date="1491285614000" expanded="true" signature="577:1232" ph="do ... end" />
+            <marker date="1491285614000" expanded="true" signature="629:1222" ph="do ... end" />
+            <marker date="1491285614000" expanded="true" signature="722:881" ph="unless ... end" />
+            <marker date="1491285614000" expanded="true" signature="926:1058" ph="unless ... end" />
+            <marker date="1491285614000" expanded="true" signature="1435:1794" ph=" ... end" />
+            <marker date="1491285614000" expanded="true" signature="1440:1788" ph="if ... end" />
+            <marker date="1491285614000" expanded="true" signature="1588:1734" ph="if ... end" />
+            <marker date="1491285614000" expanded="true" signature="1895:2047" ph=" ... end" />
+            <marker date="1491285614000" expanded="true" signature="1916:1964" ph="{ ... }" />
+            <marker date="1491285614000" expanded="true" signature="1995:2030" ph="{ ... }" />
+            <marker date="1491285614000" expanded="true" signature="2110:2292" ph=" ... end" />
+            <marker date="1491285614000" expanded="true" signature="2115:2286" ph="if ... end" />
+            <marker date="1491285614000" expanded="true" signature="2144:2192" ph="{ ... }" />
+            <marker date="1491285614000" expanded="true" signature="2409:2543" ph=" ... end" />
+            <marker date="1491285614000" expanded="true" signature="2428:2537" ph="do ... end" />
+            <marker date="1491285614000" expanded="true" signature="2484:2529" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/models/battle_ground_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <marker date="1491221863000" expanded="true" signature="66:500" ph="do ... end" />
+            <marker date="1491221863000" expanded="true" signature="152:496" ph="do ... end" />
+            <marker date="1491221863000" expanded="true" signature="191:490" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/models/player_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <marker date="1491282138000" expanded="true" signature="60:2895" ph="do ... end" />
+            <marker date="1491282138000" expanded="true" signature="92:341" ph="do ... end" />
+            <marker date="1491282138000" expanded="true" signature="389:1578" ph="do ... end" />
+            <marker date="1491282138000" expanded="true" signature="410:473" ph="do ... end" />
+            <marker date="1491282138000" expanded="true" signature="546:717" ph="do ... end" />
+            <marker date="1491282138000" expanded="true" signature="790:901" ph="do ... end" />
+            <marker date="1491282138000" expanded="true" signature="972:1244" ph="do ... end" />
+            <marker date="1491282138000" expanded="true" signature="1288:1572" ph="do ... end" />
+            <marker date="1491282138000" expanded="true" signature="1465:1504" ph="{ ... }" />
+            <marker date="1491282138000" expanded="true" signature="1652:2891" ph="do ... end" />
+            <marker date="1491282138000" expanded="true" signature="1674:1732" ph="do ... end" />
+            <marker date="1491282138000" expanded="true" signature="1780:2165" ph="do ... end" />
+            <marker date="1491282138000" expanded="true" signature="2235:2533" ph="do ... end" />
+            <marker date="1491282138000" expanded="true" signature="2405:2454" ph="{ ... }" />
+            <marker date="1491282138000" expanded="true" signature="2590:2884" ph="do ... end" />
+            <marker date="1491282138000" expanded="true" signature="2760:2809" ph="{ ... }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/models/battle_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="7" lean-forward="true" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
+          <folding>
+            <marker date="1491286015000" expanded="true" signature="60:3171" ph="do ... end" />
+            <marker date="1491286015000" expanded="true" signature="124:1728" ph="do ... end" />
+            <marker date="1491286015000" expanded="true" signature="145:475" ph="do ... end" />
+            <marker date="1491286015000" expanded="true" signature="536:774" ph="do ... end" />
+            <marker date="1491286015000" expanded="true" signature="832:883" ph="do ... end" />
+            <marker date="1491286015000" expanded="true" signature="943:1011" ph="do ... end" />
+            <marker date="1491286015000" expanded="true" signature="1073:1141" ph="do ... end" />
+            <marker date="1491286015000" expanded="true" signature="1213:1281" ph="do ... end" />
+            <marker date="1491286015000" expanded="true" signature="1353:1508" ph="do ... end" />
+            <marker date="1491286015000" expanded="true" signature="1405:1437" ph="{ ... }" />
+            <marker date="1491286015000" expanded="true" signature="1447:1486" ph="{ ... }" />
+            <marker date="1491286015000" expanded="true" signature="1580:1722" ph="do ... end" />
+            <marker date="1491286015000" expanded="true" signature="1771:3167" ph="do ... end" />
+            <marker date="1491286015000" expanded="true" signature="1792:1896" ph="do ... end" />
+            <marker date="1491286015000" expanded="true" signature="1934:2275" ph="do ... end" />
+            <marker date="1491286015000" expanded="true" signature="2323:2715" ph="do ... end" />
+            <marker date="1491286015000" expanded="true" signature="2763:3161" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/parsers/file_parser.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-43">
+          <caret line="39" column="25" lean-forward="false" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+          <folding>
+            <marker date="1491220760000" expanded="true" signature="16:3619" ph=" ... end" />
+            <marker date="1491220760000" expanded="true" signature="134:340" ph=" ... end" />
+            <marker date="1491220760000" expanded="true" signature="409:504" ph=" ... end" />
+            <marker date="1491220760000" expanded="true" signature="592:1011" ph=" ... end" />
+            <marker date="1491220760000" expanded="true" signature="907:1005" ph="do ... end" />
+            <marker date="1491220760000" expanded="true" signature="1015:1202" ph="##..." />
+            <marker date="1491220760000" expanded="true" signature="1231:1557" ph=" ... end" />
+            <marker date="1491220760000" expanded="true" signature="1236:1421" ph="if ... end" />
+            <marker date="1491220760000" expanded="true" signature="1584:1682" ph=" ... end" />
+            <marker date="1491220760000" expanded="true" signature="1764:2047" ph=" ... end" />
+            <marker date="1491220760000" expanded="true" signature="1849:2041" ph="if ... end" />
+            <marker date="1491220760000" expanded="true" signature="2124:2437" ph=" ... end" />
+            <marker date="1491220760000" expanded="true" signature="2226:2431" ph="if ... end" />
+            <marker date="1491220760000" expanded="true" signature="2529:2823" ph=" ... end" />
+            <marker date="1491220760000" expanded="true" signature="2561:2817" ph="do ... end" />
+            <marker date="1491220760000" expanded="true" signature="2683:2809" ph="if ... end" />
+            <marker date="1491220760000" expanded="true" signature="2940:3039" ph=" ... end" />
+            <marker date="1491220760000" expanded="true" signature="2972:3033" ph="do ... end" />
+            <marker date="1491220760000" expanded="true" signature="3083:3615" ph=" ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1491220703000" expanded="true" signature="20:747" ph=" ... end" />
+            <marker date="1491220703000" expanded="true" signature="55:61" ph=" ... end" />
+            <marker date="1491220703000" expanded="true" signature="75:743" ph=" ... end" />
+            <marker date="1491220703000" expanded="true" signature="333:385" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="41" column="2" lean-forward="false" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
+          <folding>
+            <marker date="1491290074000" expanded="true" signature="51:182" ph="do ... end" />
+            <marker date="1491290074000" expanded="true" signature="336:442" ph="##..." />
+            <marker date="1491290074000" expanded="true" signature="470:700" ph="##..." />
+            <marker date="1491290074000" expanded="true" signature="720:931" ph="##..." />
+            <marker date="1491290074000" expanded="true" signature="998:1219" ph="##..." />
+            <marker date="1491290074000" expanded="true" signature="1247:1458" ph="do ... end" />
+            <marker date="1491290074000" expanded="true" signature="1479:1826" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-778">
+          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding>
+            <marker date="1491282167000" expanded="true" signature="44:87" ph="do ... end" />
+            <marker date="1491282167000" expanded="true" signature="88:1074" ph="##..." />
+            <marker date="1491282167000" expanded="true" signature="1091:4950" ph="do ... end" />
+            <marker date="1491282167000" expanded="true" signature="1105:1269" ph="do ... end" />
+            <marker date="1491282167000" expanded="true" signature="1298:1761" ph="do ... end" />
+            <marker date="1491282167000" expanded="true" signature="1320:1678" ph="do ... end" />
+            <marker date="1491282167000" expanded="true" signature="1765:1911" ph="##..." />
+            <marker date="1491282167000" expanded="true" signature="1938:2167" ph="do ... end" />
+            <marker date="1491282167000" expanded="true" signature="1953:2121" ph="do ... end" />
+            <marker date="1491282167000" expanded="true" signature="2171:2536" ph="##..." />
+            <marker date="1491282167000" expanded="true" signature="2604:2741" ph="do ... end" />
+            <marker date="1491282167000" expanded="true" signature="2742:4946" ph="=begin ... =end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/rails_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="49" lean-forward="false" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
+          <folding>
+            <marker date="1491290085000" expanded="true" signature="360:1320" ph="##..." />
+            <marker date="1491290085000" expanded="true" signature="1338:2137" ph="do ... end" />
+            <marker date="1491290085000" expanded="true" signature="1352:1906" ph="do ... end" />
+            <marker date="1491290085000" expanded="true" signature="2041:2133" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/parsers/file_parser_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="91" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="91" />
+          <folding>
+            <marker date="1491289310000" expanded="true" signature="65:2301" ph="do ... end" />
+            <marker date="1491289310000" expanded="true" signature="115:2297" ph="do ... end" />
+            <marker date="1491289310000" expanded="true" signature="157:586" ph="do ... end" />
+            <marker date="1491289310000" expanded="true" signature="627:1039" ph="do ... end" />
+            <marker date="1491289310000" expanded="true" signature="1123:1378" ph="do ... end" />
+            <marker date="1491289310000" expanded="true" signature="1231:1257" ph="{ ... }" />
+            <marker date="1491289310000" expanded="true" signature="1454:1672" ph="do ... end" />
+            <marker date="1491289310000" expanded="true" signature="1563:1589" ph="{ ... }" />
+            <marker date="1491289310000" expanded="true" signature="1736:1971" ph="do ... end" />
+            <marker date="1491289310000" expanded="true" signature="1845:1871" ph="{ ... }" />
+            <marker date="1491289310000" expanded="true" signature="2048:2291" ph="do ... end" />
+            <marker date="1491289310000" expanded="true" signature="2150:2176" ph="{ ... }" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/controllers/home_controller_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="735">
+          <caret line="49" column="54" lean-forward="false" selection-start-line="49" selection-start-column="54" selection-end-line="49" selection-end-column="54" />
+          <folding>
+            <marker date="1491290629000" expanded="true" signature="73:2202" ph="do ... end" />
+            <marker date="1491290629000" expanded="true" signature="100:218" ph="do ... end" />
+            <marker date="1491290629000" expanded="true" signature="133:212" ph="do ... end" />
+            <marker date="1491290629000" expanded="true" signature="246:2197" ph="do ... end" />
+            <marker date="1491290629000" expanded="true" signature="301:646" ph="do ... end" />
+            <marker date="1491290629000" expanded="true" signature="706:896" ph="do ... end" />
+            <marker date="1491290629000" expanded="true" signature="958:1321" ph="do ... end" />
+            <marker date="1491290629000" expanded="true" signature="1374:1757" ph="do ... end" />
+            <marker date="1491290629000" expanded="true" signature="1810:2191" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding />
         </state>
       </provider>

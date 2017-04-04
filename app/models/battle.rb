@@ -67,7 +67,7 @@ class Battle
     if (player = @players.select {|player| player.battleship_position_count != 0}).count == 1
       "#{player[0].name} won the battle"
     else
-      "Battle was drawn"
+      "Battle is drawn"
     end
   end
 

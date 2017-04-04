@@ -4,7 +4,7 @@ class HomeController < ApplicationController
 
   def submit
     uploaded_io = params[:battleship_data]
-    raise "File must be a .txt file" unless uploaded_io.original_filename.split('.').last == "txt"
+    raise "File must be a .txt file" unless uploaded_io and uploaded_io.original_filename.split('.').last == "txt"
     filename = Rails.root.join('tmp', uploaded_io.original_filename)
     File.open(filename, 'wb') do |file|
       file.write(uploaded_io.read)
@@ -15,6 +15,7 @@ class HomeController < ApplicationController
     battle = Battle.new(battle_ground, players)
     @res = battle.start
   rescue Exception => e
+    logger.info e.backtrace
     @err_message = e.message
     render 'home', object: @err_message
   end
