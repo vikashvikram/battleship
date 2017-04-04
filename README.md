@@ -1,24 +1,21 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The application is built on Ruby on Rails and is live [here](https://blooming-woodland-81902.herokuapp.com/).
 
-Things you may want to cover:
+## Setup
 
-* Ruby version
+* install ruby `2.4.0` if not already installed
+* install Rails `5.0.2` if not already installed
+* install `bundler` gem if not already installed
+* clone the app
+* run `bundle install`
+* run `rails s` and app will be available at localhost:3000
+* App does not require any database
 
-* System dependencies
+## Other Informations
 
-* Configuration
+* App uses Rspec for test cases which can be run as `rspec`
+* Test case coverage is >90% and coverage report can be found in `coverage` folder (If it does not exist then running `rspec` generates it)
+* Some sample input files can be found in `spec/fixtures/samples` folder
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
